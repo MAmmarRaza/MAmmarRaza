@@ -1,4 +1,4 @@
-<!-- ![logo](https://github.com/ArihaNoor/arihanoor/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png) -->
+![logo](https://github.com/MAmmarRaza/Portfolio/blob/00126983814cae7556fe99bebc7869b4a56c5a7c/I%20Am%20Ammar%20raza%20(1).gif)
 <h1 align="center">Hi 👋, I'm Ammar Raza</h1>
 <h3 align="center">A passionate software engineer creating innovative and efficient solutions.</h3>
 
