@@ -2,9 +2,13 @@
 <h1 align="center">Hi 👋, I'm Ammar Raza</h1>
 <h3 align="center">A passionate software engineer creating innovative and efficient solutions.</h3>
 
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="coding" width="400" src="https://media1.tenor.com/images/07805d3b4f0c8be05d4b5a206c8b6854/tenor.gif?itemid=13171542">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arihanoor&label=Profile%20views&color=0e75b6&style=flat" alt="arihanoor" /> </p>
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=mammarraza&label=Profile%20views&color=0e75b6&style=flat" alt="mammarraza" />
+</p>
+  
 
 - 📫 How to reach me **m.ammarrazantu@gmail.com**
 
@@ -70,8 +74,8 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mammarraza&show_icons=true&locale=en&layout=compact" alt="arihanoor" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mammarraza&show_icons=true&locale=en&layout=compact" alt="mammarraza" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mammarraza&show_icons=true&locale=en" alt="mammarraza" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mammarraza&" alt="arihanoor" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mammarraza&" alt="mammarraza" /></p>
