@@ -10,7 +10,7 @@
 </p>
   
 
-- 📫 How to reach me **m.ammarrazantu@gmail.com**
+- 📫 How to reach me **me.raza@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +24,7 @@
 <a href="https://wa.me/+923038876956" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
 </a>
-<a href="mailto:mammarrazantu@gmail.com" target="_blank" rel="noreferrer">
+<a href="mailto:me.raza@outlook.com" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" height="30" width="30" />
 </a>
 
