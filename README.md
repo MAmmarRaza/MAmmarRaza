@@ -1,5 +1,3 @@
-Here's your updated code with the requested logos added and irrelevant ones removed:
-
 <h1 align="center">Hi 👋, I'm Ammar Raza</h1>
 <h3 align="center">A passionate software engineer creating innovative and efficient solutions.</h3>
 
